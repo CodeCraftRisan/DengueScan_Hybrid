@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 DengueScan Hybrid is a two-stage, safety-critical clinical decision support system (CDSS) designed to assist frontline healthcare workers in dengue-endemic, low-resource settings. It combines a **symptom-based screening model** with a **hematological confirmation model** into a unified hybrid pipeline — prioritizing recall to minimize missed diagnoses.
 
@@ -17,7 +17,7 @@ This project is developed as part of an undergraduate research study on **cross-
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Hybrid Two-Stage Diagnosis** — Symptom screening (Stage 1) feeds into hematological confirmation (Stage 2)
 - **Safety-Critical Threshold** — Optimized decision threshold (0.25) minimizes false negatives
@@ -27,7 +27,7 @@ This project is developed as part of an undergraduate research study on **cross-
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Stage | Model Type | Accuracy | Sensitivity (Recall) |
 |-------|-----------|----------|----------------------|
@@ -38,7 +38,7 @@ This project is developed as part of an undergraduate research study on **cross-
 
 ---
 
-## 🛠️ How to Run Locally
+##  How to Run Locally
 
 **1. Clone the repository**
 ```bash
@@ -58,7 +58,7 @@ streamlit run app.py
 
 > Make sure `dengue_model_final.pkl`, `model_features.pkl`, and `dengue_model_clinical.pkl` are in the same directory as `app.py`.
 ---
-```
+
 
 ---
 
@@ -83,5 +83,4 @@ Developed as part of an undergraduate research study on cross-regional generaliz
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
