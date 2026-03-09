@@ -252,7 +252,7 @@ st.markdown("""
     <div class="stat-divider"></div>
     <div class="stat-item"><div class="stat-value">83%</div><div class="stat-label">Lab Accuracy</div></div>
     <div class="stat-divider"></div>
-    <div class="stat-item"><div class="stat-value">2</div><div class="stat-label">AI Stages</div></div>
+    <div class="stat-item"><div class="stat-value">2</div><div class="stat-label"> Stages</div></div>
     <div class="stat-divider"></div>
     <div class="stat-item"><div class="stat-value">BD</div><div class="stat-label">Context</div></div>
 </div>
